@@ -1,0 +1,4 @@
+vehicle_type,trips,revenue,avg_fare,avg_rating
+Sedan,12295,654146.97,48.81,4.28
+SUV,3910,283117.39,66.4,4.31
+Limousine,1366,178595.09,119.62,4.24

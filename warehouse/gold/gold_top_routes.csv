@@ -1,0 +1,16 @@
+pickup_zone,dropoff_zone,trips,avg_fare,avg_km
+Pearson Airport,Downtown Toronto,1685,81.55,30.0
+Downtown Toronto,Pearson Airport,1478,80.45,30.01
+Pearson Airport,Mississauga,1069,25.24,7.94
+Mississauga,Pearson Airport,891,25.22,7.88
+Pearson Airport,Union Station,772,87.59,31.95
+Pearson Airport,North York,705,50.69,17.99
+Downtown Toronto,Mississauga,647,78.52,28.12
+Mississauga,Downtown Toronto,629,76.56,28.09
+Union Station,Pearson Airport,595,86.59,31.99
+North York,Pearson Airport,505,50.96,18.03
+Downtown Toronto,Union Station,494,25.96,8.17
+Downtown Toronto,North York,446,50.24,18.02
+Union Station,Downtown Toronto,439,25.49,8.18
+Pearson Airport,Square One,431,22.58,6.88
+North York,Downtown Toronto,409,49.8,17.95

@@ -1,0 +1,9 @@
+pickup_zone,trips,revenue,avg_delay_min,on_time_rate
+Pearson Airport,5349,335421.88,3.92,0.62
+Downtown Toronto,3801,286417.39,2.55,0.71
+Mississauga,2465,130262.89,2.2,0.73
+Union Station,1753,127475.11,2.14,0.73
+North York,1606,85470.43,2.37,0.72
+Square One,1019,54299.52,2.01,0.74
+Brampton,667,48849.91,2.39,0.73
+Etobicoke,911,47662.32,2.32,0.73
